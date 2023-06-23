@@ -22,7 +22,7 @@
       <a href="" class="h1"><b>ADMIN</b></a>
     </div>
     <div class="card-body">
-      <p class="login-box-msg">Login in to start your session</p>
+      <p class="login-box-msg">Login In To Start Your Session</p>
 
       <form action="/Loginproses" method="post">
         @csrf
